@@ -4,6 +4,28 @@
 //
 //  Created by Ahmed Dana Mohammed on 5/14/24.
 //
+/*
+ 
+ COMMIT MESSAGES
+ 
+ NEW FEATURE:
+ [Feature] Descroption of the feature
+ 
+ BUG IN PRODUCTION:
+ [Patch] Descroption of patch
+ 
+ BUG NOT IN PRODUCTION:
+ [Bug] Descroption of the bug
+ 
+ MUNDANE TASKS:
+ [Clean] Description of changes
+ 
+ RELEASE:
+ [Release] Descroption of release
+ 
+ */
+
+
 
 import SwiftUI
 
