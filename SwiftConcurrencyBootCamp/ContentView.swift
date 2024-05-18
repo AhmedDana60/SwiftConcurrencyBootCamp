@@ -11,17 +11,18 @@
  NEW FEATURE:
  [Feature] Descroption of the feature
  
- BUG IN PRODUCTION:
- [Patch] Descroption of patch
- 
  BUG NOT IN PRODUCTION:
  [Bug] Descroption of the bug
+ 
+ RELEASE:
+ [Release] Descroption of release
+ 
+ BUG IN PRODUCTION:
+ [Patch] Descroption of patch
  
  MUNDANE TASKS:
  [Clean] Description of changes
  
- RELEASE:
- [Release] Descroption of release
  
  */
 
