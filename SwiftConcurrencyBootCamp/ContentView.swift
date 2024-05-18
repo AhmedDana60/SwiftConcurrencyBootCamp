@@ -5,6 +5,10 @@
 //  Created by Ahmed Dana Mohammed on 5/14/24.
 //
 /*
+ Clone = Copying the repo locally
+ Commit = Save ("checkpoint") on our current branch
+ Stage = Prepare changes for a commit
+ Stash = Save changes for later
  
  COMMIT MESSAGES
  
