@@ -7,9 +7,6 @@
 
 import SwiftUI
 
-
-
-
 struct DoCatchTryThrowsBootCamp: View {
     @StateObject private var viewModels = DoCatchTryThrowsBootCampViewModel()
     var body: some View {
