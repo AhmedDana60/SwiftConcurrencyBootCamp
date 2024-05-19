@@ -38,7 +38,7 @@ class DoCatchTryThrowsBootCampManager {
     
     func getTitle4() throws -> String {
         if isActive {
-            return ("FINAL TEXT")
+            return ("FINAL TEXT SHOWN!")
         } else {
             throw URLError((.badURL))
         }
