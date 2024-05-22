@@ -12,6 +12,9 @@
  Stash = Save changes for later
  Push = Send local commits to remote repo
  Pull = Fetch remote commits to local repo
+ Merge = Joining two different branch
+ Rebase = Moving one branch on top of another branch
+ Cherry picking = Duplication (copying) one commit from one branch to another
  
  
  COMMIT MESSAGES
@@ -49,6 +52,30 @@ struct ContentView: View {
         .padding()
     }
 }
+
+
+//class DoCatchTryThrowsBootCampManager {
+//    func getTitle() -> String {
+//        return "NEW TITLE"
+//    }
+//}
+//
+//
+//
+//class DoCatchTryThrowsBootCampViewModel : ObservableObject {
+//    @Published var text: String = "Starting text."
+//    let manager = DoCatchTryThrowsBootCampManager()
+//    
+//    
+//    func fetchTitle() {
+//        let newTitle = manager.getTitle()
+//        self.text = newTitle
+//    }
+//}
+
+
+
+
 
 #Preview {
     ContentView()
