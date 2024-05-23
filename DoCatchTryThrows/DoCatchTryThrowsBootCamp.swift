@@ -10,11 +10,13 @@ import SwiftUI
 struct DoCatchTryThrowsBootCamp: View {
     @StateObject private var viewModels = DoCatchTryThrowsBootCampViewModel()
     var body: some View {
-        
+        Text("Hello World")
+
         Text(viewModels.text)
             .frame(width: 300, height: 300)
             .background(.blue)
             .foregroundColor(.white)
+
             .onTapGesture {
                 viewModels.fetchTitle()
             }
