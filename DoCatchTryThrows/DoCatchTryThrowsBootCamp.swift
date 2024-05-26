@@ -13,7 +13,7 @@ struct DoCatchTryThrowsBootCamp: View {
         Text("Hello World")
 
         Text(viewModels.text)
-            .frame(width: 300, height: 300)
+            .frame(width: 250, height: 250)
             .background(.blue)
             .foregroundColor(.white)
 
