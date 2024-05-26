@@ -14,7 +14,7 @@ struct DoCatchTryThrowsBootCamp: View {
 
         Text(viewModels.text)
             .frame(width: 300, height: 300)
-            .background(.blue)
+            .background(.red)
             .foregroundColor(.white)
 
             .onTapGesture {
